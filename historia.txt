@@ -1,5 +1,7 @@
 Esta es la historia de orjuelalaley
 
-Sebastian Orjuela tiene 21 años y nacio en Colombia 
+Sebastian Orjuela tiene 22 años y 
+nacio en Colombia y quiere conocer el mundo
+entero
 
 Hoy esta aprendiendo sobre git y github
