@@ -2,4 +2,6 @@ Esta es la historia de Sebastian Orjuela pero en linux
 
 Sebastian es Orjuelalaley y tiene 21 años.
 
-Hoy estudiaremos como usar git y github y como treparlo con un remoto
+Hoy estudiaremos como usar git
+
+Cosos raros xd
