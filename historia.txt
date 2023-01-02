@@ -1,16 +1,3 @@
-<<<<<<< HEAD
-Esta es la historia de orjuelalaley
-
-Sebastian Orjuela tiene 22 años y 
-nacio en Colombia y quiere conocer el mundo
-entero
-
-Hoy esta aprendiendo sobre git y github
-
-le gusta el overwatch
-
-se come el helado
-=======
 Esta es la historia de Sebastian Orjuela pero en linux
 
 Sebastian es Orjuelalaley y tiene 21 años.
@@ -18,4 +5,3 @@ Sebastian es Orjuelalaley y tiene 21 años.
 Hoy estudiaremos como usar git
 
 Cosos raros xd
->>>>>>> 19303f07ee7a5c901f744bae85817ef390aa8622
