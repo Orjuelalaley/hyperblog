@@ -64,7 +64,8 @@ body
 #post
 {
     padding: 1em;
-    color: white;
+    color: black;
+    background: white;
 }
 #footer
 {
